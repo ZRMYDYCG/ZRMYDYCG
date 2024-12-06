@@ -55,22 +55,6 @@
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 
-### - Blogs 🌱
-
-<p align="center">
-  <a href="#" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/user-attachments/assets/cb4da8b9-5ae6-4ece-8731-d27ceea2563c" height="30px"> 
-  </a>
-    <a href="#" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/user-attachments/assets/3af6f717-3ab3-4e9e-b8e6-aca1e23510f3" height="30px"> 
-  </a>
-  <a href="#" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/user-attachments/assets/445fc82e-e270-489e-bfc1-d7732cc61f6a" height="30px"> 
-  </a>
-  <a href="#" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/user-attachments/assets/eeb4433a-2839-4a33-8cb3-0b0b3633fd26" height="30px"> 
-  </a>
-</p>
 
 <h1 align='center'>⚡️<i>Stay hungry, Stay foolish!</i>⚡️</h1>
 
