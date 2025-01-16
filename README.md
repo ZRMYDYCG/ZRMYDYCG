@@ -24,20 +24,6 @@
 
 <img align="right" height="270px" width="450px" src="https://github.com/user-attachments/assets/c817cfda-f9e0-4ed1-b91d-be52aaa4ca59" />
 
-- 😼 Find the problem and solve it
-
-- 🦾 HTML CSS JavaScript TypeScript React Nuxt Vue Node.js Nest.js
-
-- 🔭 Front-end development Back-end development
-
-- 🛸 Like to explore new technologies and frameworks, continue to learn and make progress.
-
-- 📚 Passionate about sharing knowledge and willing to help others solve technical problems.
-
-- 🎨 Like to do some design and explore best practices in User Experience (UX) and User Interface (UI).
-
-- 🌍 Hope to make a positive contribution to society through technology, participate in open source projects, and grow with like-minded people.
-
 - ❤️ I hope you find yourself in peace and love and enjoy every moment of your life!
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
