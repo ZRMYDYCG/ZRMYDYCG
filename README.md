@@ -22,9 +22,7 @@
  
 <br />
 
-<img align="right" height="270px" width="450px" src="https://github.com/user-attachments/assets/c817cfda-f9e0-4ed1-b91d-be52aaa4ca59" />
-
-- ❤️ I hope you find yourself in peace and love and enjoy every moment of your life!
+<img height="270px" width="450px" src="https://github.com/user-attachments/assets/c817cfda-f9e0-4ed1-b91d-be52aaa4ca59" />
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 
