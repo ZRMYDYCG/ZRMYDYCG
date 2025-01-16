@@ -10,20 +10,16 @@
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=ZRMYDYCG&theme=github)
+
 <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);"> 🙎 一勺 | 💻 开发爱好者 | 🛸 Jiang Su , China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ZRMYDYCG&theme=github)
  
 <h5 align="center">
   <i>⚡️I have seen a lot of scenery, and I have so many thanks to express.⚡️</i>
 </h5>
  
-<br />
-
-<img height="270px" width="450px" src="https://github.com/user-attachments/assets/c817cfda-f9e0-4ed1-b91d-be52aaa4ca59" />
-
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 
 
