@@ -24,7 +24,7 @@
 
 ## 技术栈
 
-![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,node,git,github)
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,nodejs,git,github)
 
 <h1 align='center'>⚡️<i>Stay hungry, Stay foolish!</i>⚡️</h1>
 
