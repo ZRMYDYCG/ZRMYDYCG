@@ -22,6 +22,9 @@
  
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 
+## 技术栈
+
+![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,node,git,github)
 
 <h1 align='center'>⚡️<i>Stay hungry, Stay foolish!</i>⚡️</h1>
 
