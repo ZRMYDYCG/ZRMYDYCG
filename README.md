@@ -1,34 +1,28 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="#">一勺</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
-
-<p align='center'>
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20一勺&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ZRMYDYCG&theme=github)
 
 <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);"> 🙎 一勺 | 💻 开发爱好者 | 🛸 Jiang Su , China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
- 
-<h5 align="center">
-  <i>⚡️I have seen a lot of scenery, and I have so many thanks to express.⚡️</i>
-</h5>
- 
-<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-
-## 技术栈
-
-![My Skills](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,nodejs,git,github)
-
-<h1 align='center'>⚡️<i>Stay hungry, Stay foolish!</i>⚡️</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ZRMYDYCG&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+ 
+<p align="center">
+   <img width="800" src="https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,nest,nodejs,git,markdown,vite,vitest,html,css,js,typescript">  
 </p>
 
+<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+</p>
+
+<h5 align="center">
+  <p>⚡️I have seen a lot of scenery, and I have so many thanks to express.⚡️</p>
+</h5>
